@@ -1,0 +1,29 @@
+/* styles classés alphabétiquement */
+
+a[title="Accueil"] {
+    font-size: 25px;
+}
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    border: 3px blue dashed;
+    color: mediumaquamarine;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+    font-style: italic;
+}
+
+p {
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    text-align: justify;
+}p[title="bienvenue"] {
+    font-size: 25px;
+}
